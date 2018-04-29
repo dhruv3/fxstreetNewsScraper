@@ -1,0 +1,7 @@
+dateparser==0.7.0
+python-dateutil==2.7.2
+pytz==2018.4
+regex==2018.2.21
+selenium==3.11.0
+six==1.11.0
+tzlocal==1.5.1
